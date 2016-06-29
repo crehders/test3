@@ -1,0 +1,22 @@
+{
+  "name": "crehders/test3",
+  "description": "meeeh",
+  "type": "library",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    {
+      "name": "crehders",
+      "role": "lead"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.x-dev"
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
