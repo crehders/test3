@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "8d71a34d067dec727fa29122a52c7da5",
+    "content-hash": "71ad24feb8b2a6fe833dc9898b9e7bd8",
+    "packages": [
+        {
+            "name": "crehders/test5",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/crehders/test5.git",
+                "reference": "4fd6d46ab9dca0e62d37cf66b02dafb5b3d0ed50"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/crehders/test5/zipball/4fd6d46ab9dca0e62d37cf66b02dafb5b3d0ed50",
+                "reference": "4fd6d46ab9dca0e62d37cf66b02dafb5b3d0ed50",
+                "shasum": ""
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "crehders",
+                    "role": "lead"
+                }
+            ],
+            "description": "meeeh2",
+            "keywords": [
+                "test"
+            ],
+            "support": {
+                "source": "https://github.com/crehders/test5/tree/master",
+                "issues": "https://github.com/crehders/test5/issues"
+            },
+            "time": "2016-06-30 07:03:09"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "crehders/test5": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

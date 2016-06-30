@@ -11,6 +11,15 @@
       "role": "lead"
     }
   ],
+  "repositories": [
+    {
+      "packagist": false
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/crehders/test5"
+    }
+  ],  
   "require": {
     "crehders/test5": "dev-master"
   }
