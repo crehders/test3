@@ -10,5 +10,8 @@
       "name": "crehders",
       "role": "lead"
     }
-  ]
+  ],
+  "require": {
+    "crehders/test4": "dev-master"
+  }
 }
